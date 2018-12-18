@@ -32,7 +32,7 @@ a {
 
 .metawrap {
   background: inherit;
-  animation: 7s spin ease-in-out infinite;
+  animation: 27s spin ease-in-out infinite;
   width: 100vw;
   height: 100vh;
   position: absolute;
@@ -54,7 +54,7 @@ a {
   border-radius:50%;
   -webkit-filter: blur(25px);
   filter: blur(25px);
-  animation: move 12s infinite alternate ease-in-out;
+  animation: move 32s infinite alternate ease-in-out;
 
 }
 .meta:before {
@@ -62,11 +62,11 @@ a {
   animation-delay: -3.3s;
 }
 .meta:nth-child(2):before {
-  animation-duration: 14.7s;
+  animation-duration: 64.7s;
   animation-delay: -2.7s;
 }
 .meta:nth-child(2):after {
-  animation-duration: 18.7s;
+  animation-duration: 98.7s;
   animation-delay: -5.32s;
 }
 @keyframes spin {
