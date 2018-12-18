@@ -2,6 +2,9 @@ body {
   background: #111;
 }
 
+a {
+  color: #998596;
+}
 
 .wrapper {
   display: flex;
