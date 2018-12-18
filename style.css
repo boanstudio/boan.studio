@@ -26,6 +26,10 @@ a {
   color: #fff;
 }
 
+.about img {
+  width: 30vw;
+}
+
 .metawrap {
   background: inherit;
   animation: 7s spin ease-in-out infinite;
@@ -36,7 +40,6 @@ a {
   left: 0;
   pointer-events: none;
 }
-
 
 .meta:before,
 .meta:after {
