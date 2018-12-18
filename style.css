@@ -3,7 +3,7 @@ body {
 }
 
 a {
-  color: #998596;
+  color: #fff;
 }
 
 .wrapper {
@@ -20,7 +20,7 @@ a {
   max-width: 80%;
   line-height: 1.6em;
   font-size: 18px;
-  color: #998596;
+  color: #fff;
 }
 
 .metawrap {
